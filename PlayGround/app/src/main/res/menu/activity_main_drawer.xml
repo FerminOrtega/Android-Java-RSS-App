@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_inicio"
+
+            android:title="Novedades"
+            />
+
+        <item
+            android:id="@+id/nav_now"
+
+            android:title="Now"/>
+
+        <item
+            android:id="@+id/nav_culture"
+
+            android:title="Culture" />
+        <item
+            android:id="@+id/nav_lit"
+
+            android:title="Lit"
+            />
+        <item
+            android:id="@+id/nav_fire"
+
+            android:title="Fire" />
+        <item
+            android:id="@+id/nav_sports"
+
+            android:title="Sports" />
+        <item
+            android:id="@+id/nav_food"
+
+            android:title="Food" />
+        <item
+            android:id="@+id/nav_do"
+
+            android:title="Do"
+            />
+        <item
+            android:id="@+id/nav_favoritos"
+
+            android:title="Favoritos"
+            />
+        <item
+            android:id="@+id/nav_videos"
+
+            android:title="Vídeos"
+            />
+
+    </group>
+
+    <item android:title="ABOUT">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:title="Fermín Ortega Domínguez" />
+        </menu>
+    </item>
+
+</menu>

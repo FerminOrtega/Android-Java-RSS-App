@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">PlayGround</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Like, Share &amp; Do</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+
+
+    <string-array name="video_id_array">
+        <item>mLRUK4HC0SU</item>
+        <item>bxg6O7LYXIU</item>
+        <item>kHZcvllqnow</item>
+        <item>3_0sw9Ao7u4</item>
+        <item>Il6p2-40-F0</item>
+
+    </string-array>
+
+    <string-array name="video_title_array">
+        <item>TE COLONISO (feat. Beauty Brain). El reggaetón de Cristobal Colón que hizo perrear al Nuevo Mundo.</item>
+        <item>El gobierno chino también controlará absolutamente todo lo que hagas con tu coche.</item>
+        <item>Nacho Vidal: "No entiendo a la gente que quiere hacer el amor solo una vez por semana"</item>
+        <item>Quiero Ser Negro - Episodio 1</item>
+        <item>Velaske, yo soi guapa? (Las Meninas Trap Mix)</item>
+
+    </string-array>
+
+    <string-array name="video_duration_array">
+        <item>03:59</item>
+        <item>01:58</item>
+        <item>10:06</item>
+        <item>01:57</item>
+        <item>02:52</item>
+
+    </string-array>
+</resources>
